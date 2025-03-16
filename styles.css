@@ -1,6 +1,6 @@
 body{ 
     background: rgb(255, 255, 255);
-    background: radial-gradient(circle, rgba(0,0,0,0.028124999999999956) 0%, rgba(253,187,45,1) 100%);
+    background: grey;
     font-family: 'Press Start 2P', cursive;
     text-align: center;
     margin-top: 50px;
