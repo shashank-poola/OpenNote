@@ -96,11 +96,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions, feel free to open an issue or create a pull request.
 
----
-
-**Remember to replace:**
-
-* `your-username` with your GitHub username.
-* Add a LICENSE file.
-* If you add any other technologies, add them to the technologies used section.
-* If you add any styling frameworks, or build tools, update the installation section with those steps.
