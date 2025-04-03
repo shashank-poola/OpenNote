@@ -80,8 +80,8 @@ Contributions are welcome! Here's how you can contribute:
 
 ## Technologies Used
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 
 ## License
